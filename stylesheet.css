@@ -1,0 +1,56 @@
+body {
+	font-family: Arial;
+	padding: 10px;
+	background: #919191
+}
+
+.header {
+	background-color: #61b3c9;
+	padding: 30px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+.topnav {
+	text-align: center;
+	background-color: #00c2e7;
+}
+
+.rightcoloum {
+	Float: right;
+
+
+}
+
+.card {
+	background-color: #61b3c9;
+	padding: 10px;
+	width: 90%;
+	color: #FFFFFF;
+}
+
+.fakeimg {
+	background-color: #DDD;
+	width: 75%;
+	padding: 20px;
+	
+}
+
+.fakeimg {
+	background-color: #919191
+	
+}
+
+img.resize {
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
